@@ -27,7 +27,7 @@ class Person{
 
 const ayush =new Person("ayush",26);
 
-// ayush.__proto__===Person.prototype
+// ayush.__proto__===Person.prototype.
 
 class Student extends Person{
 
